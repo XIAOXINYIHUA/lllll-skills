@@ -1,0 +1,7 @@
+interface:
+  display_name: "自适应学习教练"
+  short_description: "诊断水平、生成计划、逐课教学并动态安排复习"
+  default_prompt: "Use $adaptive-learning-coach to diagnose my level and start a measurable learning plan."
+
+policy:
+  allow_implicit_invocation: true
